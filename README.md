@@ -1,9 +1,9 @@
 # Ecom-machineShop
 An E-commerce Shopping website Landing Page in HTML,Css, Jquery &amp; Bootstrap with other frameworks
 Deployed Website Link : 
-https://ecom-machine-shop.vercel.app/
+## https://ecom-machine-shop.vercel.app/
 
-## Fork this Repo --> Download --> index.html 
+### Fork this Repo --> Download --> index.html 
 
 #### Built with:
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
